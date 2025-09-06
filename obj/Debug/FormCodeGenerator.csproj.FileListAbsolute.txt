@@ -1,0 +1,18 @@
+D:\C#\FormCodeGenerator\bin\Debug\FormCodeGenerator.exe.config
+D:\C#\FormCodeGenerator\bin\Debug\FormCodeGenerator.exe
+D:\C#\FormCodeGenerator\bin\Debug\FormCodeGenerator.pdb
+D:\C#\FormCodeGenerator\obj\Debug\FormCodeGenerator.csproj.AssemblyReference.cache
+D:\C#\FormCodeGenerator\obj\Debug\FormCodeGenerator.Properties.Resources.resources
+D:\C#\FormCodeGenerator\obj\Debug\FormCodeGenerator.csproj.GenerateResource.cache
+D:\C#\FormCodeGenerator\obj\Debug\FormCodeGenerator.csproj.CoreCompileInputs.cache
+D:\C#\FormCodeGenerator\obj\Debug\FormCodeGenerator.exe
+D:\C#\FormCodeGenerator\obj\Debug\FormCodeGenerator.pdb
+D:\C#\FormCodeGenerator\obj\Debug\FormCodeGenerator.frmLogin.resources
+D:\C#\FormCodeGenerator\bin\Debug\Business Layer.dll
+D:\C#\FormCodeGenerator\bin\Debug\ConsoleApp2.dll
+D:\C#\FormCodeGenerator\bin\Debug\Business Layer.pdb
+D:\C#\FormCodeGenerator\bin\Debug\Business Layer.dll.config
+D:\C#\FormCodeGenerator\bin\Debug\ConsoleApp2.pdb
+D:\C#\FormCodeGenerator\bin\Debug\ConsoleApp2.dll.config
+D:\C#\FormCodeGenerator\obj\Debug\FormCode.68D2404E.Up2Date
+D:\C#\FormCodeGenerator\obj\Debug\FormCodeGenerator.frmMain.resources
